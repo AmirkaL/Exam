@@ -44,7 +44,6 @@ t = Transliterator('')
 
 print(t.translate("экзамен"))
 print(t.translate("илья"))
-print(t.translate("Илья"))
 print(t.translate('$'))
 print(t.translate('3'))
 print(t.translate('9'))
